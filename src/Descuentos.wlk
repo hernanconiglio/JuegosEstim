@@ -26,8 +26,7 @@ object gratis inherits Descuento {
 	}
 }
 	
-object descuentoJuegosMasCaros inherits DescuentoDirecto {
-	
+object descuentoJuegosMasCaros inherits DescuentoDirecto {	
 }
 
 class DescuentoFijoVip inherits DescuentoFijo {
